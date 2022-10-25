@@ -1,0 +1,7 @@
+Continous integration-developers+ one central repositry with branches + compile + package + unit tests + UI tests
+Continuos Delivery - operations team+automated scripts deploy to test environment+testing+then deploy to public website
+it is software development practice where software can be released to production at any time
+Continuos Deployment - It is software development practice where software is automatically released to production continuosly
+(because of acceptance automated testing)
+
+DevOps- Development team and Operation team working in coalese with same repository containing two branches one for developers and other for operations.
